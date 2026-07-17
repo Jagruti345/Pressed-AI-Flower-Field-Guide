@@ -25,15 +25,17 @@ AI-powered web application that recognizes flower species from uploaded images u
 
 ### Home Page
 
-<img src="screenshots/hero.png" width="900">
+<img src="https://github.com/user-attachments/assets/d63b1e36-6403-4dc9-b870-51383c74adea" width="900">
+
 
 ### Upload Image
 
-<img src="screenshots/upload.png" width="900">
+<img src="https://github.com/user-attachments/assets/458572af-38b0-4150-bb10-203f9ed40bbf" width="900">
+
 
 ### Recognition Result
 
-<img src="screenshots/result.png" width="900">
+<img src="https://github.com/user-attachments/assets/322ddc84-cdba-42f2-8b6e-5ef8ec496901" width="900">
 
 ---
 
@@ -180,11 +182,11 @@ Every push to the **main** branch automatically updates the EC2-hosted website u
 
 | Home | Upload |
 |------|---------|
-| <img src="screenshots/hero.png"> | <img src="screenshots/upload.png"> |
+| <img src="https://github.com/user-attachments/assets/d63b1e36-6403-4dc9-b870-51383c74adea"> | <img src="https://github.com/user-attachments/assets/458572af-38b0-4150-bb10-203f9ed40bbf"> |
 
 | Prediction | Mobile View |
 |------------|-------------|
-| <img src="screenshots/result.png"> | <img src="screenshots/mobile.png" width="250"> |
+| <img src="https://github.com/user-attachments/assets/322ddc84-cdba-42f2-8b6e-5ef8ec496901"> | <img src="https://github.com/user-attachments/assets/5b40a83f-42a0-4e35-a948-47afa79756c9" width="250"> |
 
 ---
 
