@@ -25,7 +25,7 @@ AI-powered web application that recognizes flower species from uploaded images u
 
 ### Home Page
 
-<img src="screenshots/home.png" width="900">
+<img src="screenshots/hero.png" width="900">
 
 ### Upload Image
 
@@ -180,7 +180,7 @@ Every push to the **main** branch automatically updates the EC2-hosted website u
 
 | Home | Upload |
 |------|---------|
-| <img src="screenshots/home.png"> | <img src="screenshots/upload.png"> |
+| <img src="screenshots/hero.png"> | <img src="screenshots/upload.png"> |
 
 | Prediction | Mobile View |
 |------------|-------------|
